@@ -2,10 +2,10 @@
 
 ## 👥 Integrantes del Equipo
 - Integrante 1 Yaneth Quispe Yarici (Líder de Proyecto / Scrum Master)
-- Integrante 2 (Desarrollador Backend)
-- Integrante 3 (Desarrollador Frontend)
-- Integrante 4 (Especialista en Base de Datos)
-- Integrante 5 (DevOps / QA / Cloud)
+- Integrante 2 Peña Guevara José Lincoln (Desarrollador Backend)
+- Integrante 3 Antonio Quinchua Herrera(Desarrollador Frontend)
+- Integrante 4 Christian Boutayeb Rojas (Especialista en Base de Datos)
+- Integrante 5 Maribel Herrera Suarez (DevOps / QA / Cloud)
 
 ## 📌 Configuración del Entorno
 - **Lenguaje / Framework:** Node.js / Java / Python
